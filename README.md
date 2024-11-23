@@ -1,3 +1,3 @@
 #  Landing Website
 
-This is the basic website [live](https://hanumanthacvme.glitch.me/)
+This is the basic website https://hanumanthacvme.glitch.me/
